@@ -25,7 +25,7 @@ provider "aws" {
   region = "us-west-2"
 }
 
-##
+## Testing CI
 
 resource "random_pet" "sg" {}
 
